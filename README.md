@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+  <a href="https://github.com/ryo-is/ryo-is/">
+    <img src="https://komarev.com/ghpvc/?username=ryo-is" alt="ryo-is" />
+  </a>
+  <a href="http://twitter.com/is_ryo">
+    <img height="20" src="https://img.shields.io/twitter/follow/is_ryo?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/ryo-is">
+    <img height="20" src="https://img.shields.io/github/followers/ryo-is?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/is_ryo">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/is_ryo/posts.svg" />
+  </a>
+  <//qiita.com/is_ryo">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/is_ryo/contributions.svg" />
+  </a>
+</p>
